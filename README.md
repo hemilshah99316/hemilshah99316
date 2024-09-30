@@ -1,7 +1,3 @@
-Here's your profile with spelling and grammatical corrections, along with some attractive icons added:
-
----
-
 # Hello Friends 👋
 
 My name is **Hemil Shah** and I have pursued my **Master's in Computer Science** from Syracuse University with over **3 years of experience** leveraging data to support businesses in automated and strategic decision-making. I have extensive expertise in **Data Analytics**, **Machine Learning**, **Data Science**, **Data Visualization**, **Financial Modeling**, and **Data Engineering**.
@@ -16,12 +12,12 @@ My name is **Hemil Shah** and I have pursued my **Master's in Computer Science**
 - **Database Management**: MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server
 - **Dashboards**: Tableau, Power BI, MS Excel
 - **Software**: ChatGPT, MS Excel (VLOOKUP, Power Pivot, Power Query, Solver Optimization), MS Word, MS PowerPoint, Google Analytics
-- **Techniques**:
-  - **Supervised Learning Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes, Gradient Boosting Machines (GBM), XGBoost, Neural Networks
-  - **Unsupervised Learning Algorithms**: K-Means Clustering, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE), Gaussian Mixture Models (GMM), Autoencoders
-  - **Reinforcement Learning Algorithms**: Q-Learning, Deep Q-Networks (DQN), Policy Gradients, Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG)
-  - **Ensemble Learning Algorithms**: Bagging, Boosting, Stacking
-- **Python Packages/Libraries**:
+  
+- **Techniques Skills**:
+  - **Supervised Learning Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes, Gradient Boosting Machines (GBM), XGBoost.
+  - **Unsupervised Learning Algorithms**: K-Means Clustering, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA)
+    
+- **Python Packages/Libraries Used**:
   - **Data Manipulation**: Pandas, NumPy
   - **Data Visualization**: Matplotlib, Seaborn, Plotly, Bokeh, Holoviews
   - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
