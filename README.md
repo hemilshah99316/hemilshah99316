@@ -1,21 +1,37 @@
-Hello Friends 👋
+Here's your profile with spelling and grammatical corrections, along with some attractive icons added:
 
-My Name is Hemil Shah and I have pursued my Masters In Computer Science from syracuse University with 3+ years of experience leveraging data to support businesses in automated and strategic decision-making. I have extensive expertise in Data Analytics, ML, Data science, Data Visualization, Financial Modelling, Data Engineering.
+---
 
-**EDUCATION:**  
-- Master In Computer Science Engineering at Syracuse University, Syracuse, NY (May 2024)
-- Bachelor of Engineering in Computer Science (June 2022) <br>
+# Hello Friends 👋
 
-**TECHNICAL SKILLS/CERTIFICATIONS**
-- **Programming Languages**: SQL, Python.
-- **Technologies**: Machine Learning, Artificial Intelligence, Natural Language Processing, Statistics, Data Visualization, Data Analytics, Data Management.
-- **Database Management**: MySQL, MS SQL,PostgreSQL, MongoDB, SQl Server.
-- **Dashboard**: Tableau, Power BI, MS Excel.
-- **Software**: ChatGPT, MS Excel (VLOOKUP, Power Pivot, Power Query, Solver Optimization), MS Word, MS PowerPoint, Google Analytics.
-- **Techniques**: Correlation, Regression, Logistic Regression, Neural Networks, K-Means, K-Nearest Neighbors, Bayesian,Linear Regression.
+My name is **Hemil Shah** and I have pursued my **Master's in Computer Science** from Syracuse University with over **3 years of experience** leveraging data to support businesses in automated and strategic decision-making. I have extensive expertise in **Data Analytics**, **Machine Learning**, **Data Science**, **Data Visualization**, **Financial Modeling**, and **Data Engineering**.
 
-**CONTACT:**
-- Email: hshah15@syr.edu 
-- Phone: +1(732)496-7838 
-- LinkedIn:[Hemil shah](https://www.linkedin.com/in/hemil-shah-683241165/)
-- GitHub: [Hemil shah](https://github.com/hemilshah99316)
+## **EDUCATION** 🎓  
+- **Master's in Computer Science Engineering** at Syracuse University, Syracuse, NY (May 2024)
+- **Bachelor of Engineering in Computer Science** (June 2022) 
+
+## **TECHNICAL SKILLS/CERTIFICATIONS** 💻
+- **Programming Languages**: SQL, Python
+- **Technologies**: Machine Learning, Artificial Intelligence, Natural Language Processing, Statistics, Data Visualization, Data Analytics, Data Management
+- **Database Management**: MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server
+- **Dashboards**: Tableau, Power BI, MS Excel
+- **Software**: ChatGPT, MS Excel (VLOOKUP, Power Pivot, Power Query, Solver Optimization), MS Word, MS PowerPoint, Google Analytics
+- **Techniques**:
+  - **Supervised Learning Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes, Gradient Boosting Machines (GBM), XGBoost, Neural Networks
+  - **Unsupervised Learning Algorithms**: K-Means Clustering, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA), t-Distributed Stochastic Neighbor Embedding (t-SNE), Gaussian Mixture Models (GMM), Autoencoders
+  - **Reinforcement Learning Algorithms**: Q-Learning, Deep Q-Networks (DQN), Policy Gradients, Proximal Policy Optimization (PPO), Deep Deterministic Policy Gradient (DDPG)
+  - **Ensemble Learning Algorithms**: Bagging, Boosting, Stacking
+- **Python Packages/Libraries**:
+  - **Data Manipulation**: Pandas, NumPy
+  - **Data Visualization**: Matplotlib, Seaborn, Plotly, Bokeh, Holoviews
+  - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
+---
+## **CONTACT** 📞
+- **Email**: [hshah15@syr.edu](mailto:hshah15@syr.edu) 
+- **Phone**: +1 (732) 496-7838 
+- **LinkedIn**: [Hemil Shah](https://www.linkedin.com/in/hemil-shah-683241165/)
+- **GitHub**: [Hemil Shah](https://github.com/hemilshah99316)
+
+---
+
+Feel free to adjust any part of it further or let me know if you need any additional changes!
