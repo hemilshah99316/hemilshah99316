@@ -27,7 +27,3 @@ My name is **Hemil Shah** and I have pursued my **Master's in Computer Science**
 - **Phone**: +1 (732) 496-7838 
 - **LinkedIn**: [Hemil Shah](https://www.linkedin.com/in/hemil-shah-683241165/)
 - **GitHub**: [Hemil Shah](https://github.com/hemilshah99316)
-
----
-
-Feel free to adjust any part of it further or let me know if you need any additional changes!
