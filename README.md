@@ -9,21 +9,17 @@ My name is **Hemil Shah** and I have pursued my **Master's in Computer Science**
 ## **EDUCATION** 🎓  
 - **Master's in Computer Science Engineering** at Syracuse University, Syracuse, NY (May 2024)
 - **Bachelor of Engineering in Computer Science** (June 2022) 
-## **TECHNICAL SKILLS/CERTIFICATIONS** 💻
-- **Programming Languages**: SQL, Python
-- **Technologies**: Machine Learning, Artificial Intelligence, Natural Language Processing, Statistics, Data Visualization, Data Analytics, Data Management
-- **Database Management**: MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server
-- **Dashboards**: Tableau, Power BI, MS Excel
-- **Software**: ChatGPT, MS Excel (VLOOKUP, Power Pivot, Power Query, Solver Optimization), MS Word, MS PowerPoint, Google Analytics
-  - **Techniques Skills**:
-  - **Supervised Learning Algorithms**: Linear Regression, Logistic Regression, Decision Trees, Random Forests, Support Vector Machines (SVM), k-Nearest Neighbors (k-NN), Naive Bayes, Gradient Boosting Machines (GBM), XGBoost.
-  - **Unsupervised Learning Algorithms**: K-Means Clustering, Hierarchical Clustering, DBSCAN, Principal Component Analysis (PCA)
-- **Python Packages/Libraries Used**:
-  - **Data Manipulation**: Pandas, NumPy
-  - **Data Visualization**: Matplotlib, Seaborn, Plotly, Bokeh, Holoviews
-  - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
 ---
-## **CONTACT** 📞
+## **TECHNICAL SKILLS** 💻
+- **Languages**: SQL, Python  
+- **Technologies**: Machine Learning, AI, NLP, Statistics, Data Visualization, Data Analytics  
+- **Databases**: MySQL, MS SQL, PostgreSQL, MongoDB, SQL Server  
+- **Dashboards**: Tableau, Power BI, MS Excel (VLOOKUP, Power Pivot, Power Query, Solver Optimization)  
+- **Software**: ChatGPT, MS Office, Google Analytics  
+- **Supervised Learning**: Linear/Logistic Regression, Decision Trees, Random Forests, SVM, k-NN, Naive Bayes, GBM, XGBoost  
+- **Unsupervised Learning**: K-Means, Hierarchical Clustering, DBSCAN, PCA  
+- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Bokeh, Scikit-Learn, TensorFlow, Keras, PyTorch  
+---
 - **Email**: [hshah15@syr.edu](mailto:hshah15@syr.edu) 
 - **Phone**: +1 (732) 496-7838 
 - **LinkedIn**: [Hemil Shah](https://www.linkedin.com/in/hemil-shah-683241165/)
