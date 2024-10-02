@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Hemil+Shah+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
-<h3 align="center">Expert in End-to-End Data Solutions: Data Engineering, Data Visualization, Data Analysis,Machine Learning,Financial Modelling</h3>
+<h3 align="center">Expert in End-to-End Data Solutions: Data Engineering, Data Visualization, Data Analytics,Machine Learning,Financial Modelling</h3>
 
 <p align="left"> <a href="https://www.linkedin.com/in/hemil-shah-683241165/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
