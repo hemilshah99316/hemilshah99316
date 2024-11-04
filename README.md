@@ -5,8 +5,8 @@
 <p align="left"> <a href="https://www.linkedin.com/in/hemil-shah-683241165/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
 ## **EDUCATION** 🎓  
-- **Master's in Computer Science Engineering** at Syracuse University, Syracuse, NY (May 2024)
-- **Bachelor of Engineering in Computer Science** (June 2022) 
+- **Master's in Computer Science Engineering** at **Syracuse University**, Syracuse, NY (May 2024)
+- **Bachelor in Computer Science Engineering** at **LJ University**, Gujarat, India (June 2022) 
 ---
 
 ## **TECHNICAL SKILLS** 💻
