@@ -21,6 +21,6 @@
 
 ---
 
-- **Email**: [hemilshah21102000@gmail.com](mailto:hemilshah21102000@gmail.com)  
+- **Email**: [hemilshah21102000@gmail.com](mailto:hemil.s@worksemails.com)  
 - **Phone**: +1 (732) 496-7838  
 - **LinkedIn**: [Hemil Shah](https://www.linkedin.com/in/hemil-shah-683241165/)  
