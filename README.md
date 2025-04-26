@@ -2,11 +2,10 @@
 
 <h3 align="center">Expert in End-to-End Data Solutions: Data Engineering, Data Visualization, Data Analytics, Machine Learning, Financial Modelling</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/hemil-shah-683241165/" target="blank"><img src="https://cdn.dribbble.com/users/1525393/screenshots/6420056/comp_4.gif" width="400" height="150" /></a> </p>
 
 ## **EDUCATION** 🎓  
 - **Master's in Computer Science Engineering** at **Syracuse University**, Syracuse, NY (May 2024)
-- **Bachelor in Computer Science Engineering** at **LJ University**, Gujarat, India (June 2022) 
+- **Bachelor in Computer Science Engineering** at **Gujarat Technological University**, Gujarat, India (June 2022) 
 ---
 
 ## **TECHNICAL SKILLS** 💻
@@ -21,6 +20,5 @@
 
 ---
 
-- **Email**: [hemil.s@worksemails.com](mailto:hemil.s@worksemails.com)  
+ 
 - **Phone**: +1 (732) 496-7838  
-- **LinkedIn**: [Hemil Shah](https://www.linkedin.com/in/hemil-shah-683241165/)  
