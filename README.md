@@ -4,21 +4,20 @@
 
 
 ## **EDUCATION** 🎓  
-- **Master's in Computer Science Engineering** at **Syracuse University**, Syracuse, NY (May 2024)
-- **Bachelor in Computer Science Engineering** at **Gujarat Technological University**, Gujarat, India (June 2022) 
----
-
-## **TECHNICAL SKILLS** 💻
-
-- **Programming**: Python, SQL, HTML, CSS, JavaScript  
-- **Database & Cloud Platforms**: SQL Server, MySQL, PostgreSQL, MongoDB, Oracle, SQLite, GCP, Amazon Web Services, MS Azure  
-- **ETL & Visualization Tools**: Tableau, Power BI, MS Excel, Alteryx, QlikView, Domo, Looker, SSRS, Hadoop, Snowflake, QuickBooks  
-- **IDEs & Other Tools**: MS Office, PyCharm, VS Code, Google Colab, GitHub, MS PowerPoint, SAP, Oracle, Hyperion, Anaplan, SaaS  
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Spacy, BeautifulSoup, Matplotlib, SciPy, Seaborn  
-- **Financial Skills**: Statistical Analysis, Strategic Budgeting, Risk Assessment & Mitigation Strategies, Scenario Evaluation & Stress Testing, Income Statement Analysis, Economic Feasibility Assessment, Asset/Debt & Portfolio Management, Cash Flow Forecasting, Market Research, Equity Research, Key Performance Indicator Tracking, FP&A, Balance Sheet Analysis  
-- **Soft Skills**: Stakeholder Management, Communication Skills, Collaboration, Critical Thinking, Analytical Thinking, Problem-Solving  
+- **Master's in Computer Science Engineering** at **Syracuse University**, Syracuse, NY (May 2024)  
+- **Bachelor in Computer Science Engineering** at **Gujarat Technological University**, Gujarat, India (June 2022)  
 
 ---
 
- 
-- **Phone**: +1 (732) 496-7838  
+## **TECHNICAL SKILLS** 💻  
+
+- **Programming Languages & IDEs**: Python, SQL, R, HTML, CSS, Jupyter Notebook, Google Colab, Visual Studio Code, PyCharm  
+- **Analytics Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Spacy, BeautifulSoup, Matplotlib, SciPy, Seaborn  
+- **Statistical Analysis Tools**: A/B Testing, Regression Analysis, Time Series Analysis, Descriptive & Inferential Statistics  
+- **Cloud Technologies & Databases**: MySQL, MongoDB, Snowflake, BigQuery, SQL Server, PostgreSQL, MS Azure, Amazon AWS  
+- **BI & Visualization Tools**: Tableau, Power BI, MS Excel, MS PowerPoint, MS Word, MS Office, QuickBooks  
+- **Financial Concepts & Skills**: Financial Modeling & Reporting, Budgeting & Forecasting, Variance Analysis, Valuation, Investment Analysis, KPI Tracking, Financial Statement Analysis, Cash Flow Management, Capital Budgeting, Scenario Evaluation & Stress Testing, GAAP & IFRS Standards, Economic Feasibility Assessment, Equity Research  
+
+---
+
+- **Phone**: (607) 288-2593
